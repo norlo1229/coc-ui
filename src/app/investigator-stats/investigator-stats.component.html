@@ -1,0 +1,25 @@
+<div class="flex flex-row form-content">
+    <div>
+        <form class="flex flex-column">
+            <input type="button" (click)="generateRandomStats()" value="Re-Roll Stats"/>
+            <label for="str">Str</label>
+            <input id="str" type="number" [(ngModel)]="str" name="str">
+            <label for="dex">Dex</label>
+            <input id="dex" type="number"[(ngModel)]="dex" name="dex">
+            <label for="con">Con</label>
+            <input id="con" type="number" [(ngModel)]="con" name="con">
+            <label for="app">App</label>
+            <input id="app" type="number" [(ngModel)]="app" name="app">
+            <label for="int">Int</label>
+            <input id="int" type="number" [(ngModel)]="int" name="int">
+            <label for="siz">Siz</label>
+            <input id="siz" type="number" [(ngModel)]="siz" name="siz">
+            <label for="Pow">Pow</label>
+            <input id="pow" type="number" [(ngModel)]="pow" name="pow">
+            <label for="edu">Edu</label>
+            <input id="edu" type="number" [(ngModel)]="edu" name="edu">
+            <label for="luck">Luck</label>
+            <input id="luck" type="number" [(ngModel)]="luck" name="luck">
+        </form>
+    </div>
+</div>

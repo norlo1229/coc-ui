@@ -1,0 +1,29 @@
+<div clas="flex flex-row">
+    <mat-horizontal-stepper linear #stepper>
+        <mat-step>
+            <ng-template matStepLabel>Personal Information</ng-template>
+            <app-investigator-information></app-investigator-information>
+        </mat-step>
+        <mat-step>
+            <ng-template matStepLabel>Enter your Stats</ng-template>
+            <app-investigator-stats></app-investigator-stats>
+        </mat-step>
+        <mat-step>
+            <ng-template matStepLabel>Select Your occupation</ng-template>
+            <app-investigator-occupation></app-investigator-occupation>
+        </mat-step>
+        <mat-step>
+            <ng-template matStepLabel>Decide your Interests</ng-template>
+            <app-investigator-personal-interests></app-investigator-personal-interests>
+        </mat-step>
+        <mat-step>
+            <ng-template matStepLabel>Ideology</ng-template>
+            <app-investigator-ideology></app-investigator-ideology>
+        </mat-step>
+        <mat-step>
+            <ng-template matStepLabel>Adjust your Skills</ng-template>
+            <app-investigator-skills></app-investigator-skills>
+        </mat-step>
+        
+    </mat-horizontal-stepper>
+</div>
