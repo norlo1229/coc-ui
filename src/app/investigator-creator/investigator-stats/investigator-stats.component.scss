@@ -1,5 +1,17 @@
-.form-content{
-    background-color: yellow;
+.flex{
     border: 1px solid black;
-    padding: 1em;
+}
+
+.form-content{
+    width: 100%;
+}
+
+.characteristic-label{
+    font-size: x-large;
+    min-width: 3em;
+    justify-content: center;
+    padding-left: .75em;
+    font-variant: small-caps;
+    display: flex;
+    flex-direction: column;
 }

@@ -14,6 +14,7 @@ import { MatRadioModule } from '@angular/material/radio';
 import { MatSliderModule } from '@angular/material/slider';
 import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 import { MatStepperModule } from '@angular/material/stepper';
+import {MatTooltipModule} from '@angular/material/tooltip'; 
 
 @NgModule({
   declarations: [],
@@ -33,7 +34,8 @@ import { MatStepperModule } from '@angular/material/stepper';
     MatRadioModule,
     MatSliderModule,
     MatSlideToggleModule,
-    MatStepperModule
+    MatStepperModule,
+    MatTooltipModule
   ]
 })
 export class AngularMaterialModule { }

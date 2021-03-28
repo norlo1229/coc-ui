@@ -1,0 +1,524 @@
+[
+    {
+        "id": "cc1690da-7d2c-4960-b84a-ac4dd5160add",
+        "name": "Accounting",
+        "description": "Grants understanding of accountancy procedures and reveals the financial functioning of a business or person. Inspecting the  books,  one  might  detect  cheated  employees,  siphoned-off  funds,  payment  of  bribes  or  blackmail,  and  whether  the  financial condition is better or worse than claimed. Looking through old accounts, one could see how money was gained or  lost  in  the  past  (grain,  slave-trading,  whiskey-running,  etc.) and to whom and for what payment was made.",
+        "minimumLevel": 5
+    },
+    {
+        "id": "16315da9-e5fd-45c3-ad63-3e2f1e35e1a8",
+        "name": "Acting",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "5ccb6551-c693-4f0f-a4c9-6ed5ccda389b",
+        "name": "Animal Handling",
+        "description": " e ability to command and train domesticated animals to perform simple tasks. \u001F  e skill is most commonly applied to dogs but may include birds, cats, monkeys, and so on (at the Keeper’s  discretion).  For  riding  animals,  such  as  horses  or  camels, the Ride skill is used for breaking-in and controlling such mounts.",
+        "minimumLevel": 5
+    },
+    {
+        "id": "81b65b8b-2245-44b5-9dc0-c06b9d7361af",
+        "name": "Anthropology",
+        "description": "Enables the user to identify and understand an individual’s way  of  life  through  observation.  If  the  skill-user  observes  another  culture  from  within  for  a  time,  or  works  from  accurate records concerning an extinct culture, then simple predictions can be made about that culture’s ways and morals, even though the evidence may be incomplete. Studying the culture  for  a  month  or  more,  the  anthropologist  begins  to  understand how the culture functions and, in combination with  Psychology,  may  predict  the  actions  and  beliefs  of  those being studied.",
+        "minimumLevel": 5
+    },
+    {
+        "id": "69177d50-2427-4709-ad1b-a51e46e91163",
+        "name": "Appraise",
+        "description": "Used to estimate the value of a particular item, including the quality,  material  used,  and  workmanship.  Where  relevant,  the  skill-user  could  pinpoint  the  age  of  the  item,  assess  its  historical relevance, and detect forgeries",
+        "minimumLevel": 5
+    },
+    {
+        "id": "5c293ac3-1119-45df-9e9a-93ac3ff525cd",
+        "name": "Archaeology",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "41201750-80d9-4ff8-aeed-0ddc6ef65fa1",
+        "name": "Art and Craft",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "9d2976f2-910b-4e07-8f61-dea2b5792b35",
+        "name": "Artillery",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "9200179f-ed27-4468-b3cf-22e0b56b639b",
+        "name": "Astronomy",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "42ac41f8-e197-4f39-b134-6738c2ed6ee5",
+        "name": "Axe",
+        "description": "",
+        "minimumLevel": 15
+    },
+    {
+        "id": "1880da8d-5789-493c-872c-63697151dd14",
+        "name": "Biology",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "35885361-bd33-4f07-8506-4dc388ea6d58",
+        "name": "Botany",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "b2ffa02f-815c-4785-afbf-42533d723292",
+        "name": "Bow",
+        "description": "",
+        "minimumLevel": 15
+    },
+    {
+        "id": "59119bfc-d74f-47ec-83e5-460b8613be5e",
+        "name": "Brawl",
+        "description": "",
+        "minimumLevel": 25
+    },
+    {
+        "id": "fbfda5d1-755f-420a-92b2-ebaef9b051d0",
+        "name": "Chainsaw",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "488469f3-52c2-42b7-a6b6-848c4b8a4c36",
+        "name": "Charm",
+        "description": "",
+        "minimumLevel": 15
+    },
+    {
+        "id": "8fed5427-6daa-440c-9b91-23ed49ad51b4",
+        "name": "Chemistry",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "ec1ea715-3089-4e90-90b2-aa22e8d7096c",
+        "name": "Climb",
+        "description": "",
+        "minimumLevel": 20
+    },
+    {
+        "id": "8a761cd7-ac75-4442-9ad1-b3706f845262",
+        "name": "Computer Use",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "cb3f4263-9655-443e-b1ad-9138959d6774",
+        "name": "Credit Rating",
+        "description": "",
+        "minimumLevel": 0
+    },
+    {
+        "id": "d72484a4-6911-4893-bb01-df4b1997ee7b",
+        "name": "Cryptography",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "f307c3d5-cc30-41dd-a7d6-5f4f0ee903a1",
+        "name": "Cthulhu Mythos",
+        "description": "",
+        "minimumLevel": 0
+    },
+    {
+        "id": "6c291adc-7c23-4e1c-ab5c-d0c2c61c6852",
+        "name": "Demolitions",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "77ad9b8b-8f80-4239-8e02-1c0025e55208",
+        "name": "Disguise",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "186f1850-ffa2-4659-beb6-bc96d50e7040",
+        "name": "Diving",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "9c3618b0-0b7b-4acf-8e73-6f6762d39ced",
+        "name": "Dodge",
+        "description": "",
+        "minimumLevel": -1
+    },
+    {
+        "id": "0d6933b7-53b5-4ec9-bd30-522db733aa50",
+        "name": "Drive Auto",
+        "description": "",
+        "minimumLevel": 20
+    },
+    {
+        "id": "a1ac7136-2454-4bbb-9b2d-33407ed895fa",
+        "name": "Electrical Repair",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "0afebff8-ecac-4890-8a14-53eea4612f73",
+        "name": "Electronics",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "8a049ada-3587-4e18-b750-bb267d42b700",
+        "name": "Engineering",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "0fe403f6-44f9-4da2-8252-f40513ea9549",
+        "name": "Fast Talk",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "3cb6afc9-7dc0-4f14-8001-e8a7a83ee074",
+        "name": "Fighting",
+        "description": "",
+        "minimumLevel": -1
+    },
+    {
+        "id": "dec8f5a5-b701-4241-835a-331b19aa5b22",
+        "name": "Fine Art",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "f81761e8-480f-478e-a535-58bf24f4568a",
+        "name": "Firearms",
+        "description": "",
+        "minimumLevel": -1
+    },
+    {
+        "id": "49211b45-2f3b-47fe-af44-af23588902d4",
+        "name": "First Aid",
+        "description": "",
+        "minimumLevel": 30
+    },
+    {
+        "id": "ce95a9d5-3e15-432c-817f-98c82edde139",
+        "name": "Flail",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "4feb33c4-d9ad-402f-a7bc-862313bfb06c",
+        "name": "Flamethrower",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "737acbee-d0fb-49b4-bae8-195daadbca13",
+        "name": "Forensics",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "b5c57878-e22f-4458-97b6-228b33e07e31",
+        "name": "Forgery",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "a6a0bb37-cca2-4256-9b46-7022f588d0c8",
+        "name": "Garrote",
+        "description": "",
+        "minimumLevel": 15
+    },
+    {
+        "id": "35730f9f-e605-4a7b-a325-8b95c7db54c5",
+        "name": "Geology",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "8618cbb2-bf15-47de-8851-c3529da40e19",
+        "name": "Handgun",
+        "description": "",
+        "minimumLevel": 20
+    },
+    {
+        "id": "8e23b68a-fe9f-490e-b86e-f7ff52b7114f",
+        "name": "Heavy Weapons",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "abdcf9df-3833-4432-a5c4-e3ec12cdc45a",
+        "name": "History",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "877fe891-fe45-4e93-870f-af9e9758e4d9",
+        "name": "Hypnosis",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "a4acc70a-a300-4710-831d-bd0035bfe14a",
+        "name": "Intimidate",
+        "description": "",
+        "minimumLevel": 15
+    },
+    {
+        "id": "61a14e31-a1e2-4bdc-bdde-996b58b30fec",
+        "name": "Jump",
+        "description": "",
+        "minimumLevel": 20
+    },
+    {
+        "id": "b45433f3-4453-46a1-96ee-ff1e54b0f225",
+        "name": "Language (Other)",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "9a2c3773-591f-413e-b9f8-0b016bedd86d",
+        "name": "Language (Own)",
+        "description": "",
+        "minimumLevel": -1
+    },
+    {
+        "id": "c26cce73-d352-4f50-a7ad-e46007144d80",
+        "name": "Law",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "a3ef7874-5829-42ea-9394-bbd53db640dc",
+        "name": "Library Use",
+        "description": "",
+        "minimumLevel": 20
+    },
+    {
+        "id": "6cbdd025-4e96-4d24-88d5-fe6936291f90",
+        "name": "Listen",
+        "description": "",
+        "minimumLevel": 20
+    },
+    {
+        "id": "a2832ff1-05f9-4db9-800a-cd6031b39232",
+        "name": "Locksmith",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "5653b3df-ebb1-4841-a1f5-5bad8dc329b4",
+        "name": "Lore",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "3b3c2888-58cb-49ab-bb78-5d0e6896db2a",
+        "name": "Machine Gun",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "58a246ac-12b6-4f8c-86ff-3e3abaf16468",
+        "name": "Mathematics",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "e896eb32-0673-4802-9846-5308f8845fad",
+        "name": "Mechanical Repair",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "72b3ce4e-b686-4191-b7aa-c5bfc1b70031",
+        "name": "Medicine",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "f79370ed-3011-4b8d-beaf-a6eda1348e63",
+        "name": "Meteorology",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "65b40594-b5b8-40f2-9891-2ff3a96bbb55",
+        "name": "Natural World",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "f395c614-e1c4-4375-b76f-83444bf27ef1",
+        "name": "Navigate",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "82e8b4f4-095a-4e8b-8af2-c33fd47305d4",
+        "name": "Occult",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "026a5ad3-0f7d-4049-800d-f0d53857f810",
+        "name": "Operate Heavy Machinery  ",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "0583f95f-e8a1-49c6-a9d1-bca6c3657df7",
+        "name": "Persuade",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "abb68fc3-2914-477e-b351-67eea76ff3d9",
+        "name": "Pharmacy",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "a5ce16d0-8fdf-41e0-a888-6c6b6845eec4",
+        "name": "Photography  ",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "cfb72dcd-b77b-43d5-813c-24d2d3c50698",
+        "name": "Physics",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "2bc18aad-ea86-4789-8ccb-19937fb1b699",
+        "name": "Pilot",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "f3e2b5b0-c8f8-4d22-a90b-2378161204d7",
+        "name": "Psychoanalysis  ",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "7654042f-0e81-4556-980f-3775747ba39e",
+        "name": "Psychology",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "49afd577-332c-4d57-a861-7c7d6a17177c",
+        "name": "Read Lips",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "1e763137-a0f7-4dfb-9d04-c7b675e5715c",
+        "name": "Ride",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "29763d90-8266-446d-a248-52f646014e8f",
+        "name": "Rifle",
+        "description": "",
+        "minimumLevel": 25
+    },
+    {
+        "id": "9a64d518-743a-4dec-8cba-acbdbfd6bea2",
+        "name": "Science",
+        "description": "",
+        "minimumLevel": 1
+    },
+    {
+        "id": "171759d9-1731-4b97-99fd-7d8c872bf49a",
+        "name": "Shotgun",
+        "description": "",
+        "minimumLevel": 25
+    },
+    {
+        "id": "9f1624d6-85dd-4332-9c3e-01c34f779f55",
+        "name": "Sleight of Hand ",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "2d1e76f3-f0d4-4883-a672-85c317e74b1a",
+        "name": "Spear",
+        "description": "",
+        "minimumLevel": 20
+    },
+    {
+        "id": "13195540-7260-4c25-ac3c-2c36e6bcc698",
+        "name": "Spot Hidden",
+        "description": "",
+        "minimumLevel": 25
+    },
+    {
+        "id": "77f95c5c-af2e-450c-839a-256e94e448d5",
+        "name": "Stealth",
+        "description": "",
+        "minimumLevel": 20
+    },
+    {
+        "id": "e56000d6-14d7-48de-8059-d69c69523af7",
+        "name": "Submachine Gun  ",
+        "description": "",
+        "minimumLevel": 15
+    },
+    {
+        "id": "7b12e08e-1264-44da-8acb-28c497f15c5a",
+        "name": "Survival",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "17b354e1-9ee4-4d33-89db-eb54f4c2bb0f",
+        "name": "Swim",
+        "description": "",
+        "minimumLevel": 20
+    },
+    {
+        "id": "b147a5da-c0de-4665-bb0a-d89131d3d71e",
+        "name": "Sword",
+        "description": "",
+        "minimumLevel": 20
+    },
+    {
+        "id": "0cde227c-3f1d-48c3-9119-1210c583897d",
+        "name": "Throw",
+        "description": "",
+        "minimumLevel": 20
+    },
+    {
+        "id": "6a330ba7-654a-46bd-91e8-396e583390fc",
+        "name": "Track",
+        "description": "",
+        "minimumLevel": 10
+    },
+    {
+        "id": "bdf8560c-45dd-436f-98ea-c661287c9cd6",
+        "name": "Whip",
+        "description": "",
+        "minimumLevel": 5
+    },
+    {
+        "id": "07e4fff7-6977-4dab-8b38-c1ccbdab7129",
+        "name": "Zoology",
+        "description": "",
+        "minimumLevel": 1
+    }
+]

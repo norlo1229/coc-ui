@@ -1,5 +1,30 @@
 .form-content{
-    background-color: yellow;
+    max-height: 65em;
+}
+
+.flex-row{
     border: 1px solid black;
-    padding: 1em;
+}
+
+button{
+    font-size: smaller;
+}
+
+button{
+    margin-left: .25em;
+    background-color: red;
+    border: none;
+    padding: .5em;
+    border-radius: 2em;
+    color: white;
+}
+
+.skill-defintion{
+    min-width: 15em;
+    justify-items: center;
+}
+
+input{
+    width: 2em;
+    border: 1px solid black;
 }

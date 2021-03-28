@@ -1,12 +1,12 @@
 <div clas="flex flex-row">
     <mat-horizontal-stepper linear #stepper>
-        <mat-step>
+        <mat-step class="form-content">
             <ng-template matStepLabel>Personal Information</ng-template>
-            <app-investigator-information></app-investigator-information>
+            <app-investigator-information ></app-investigator-information>
         </mat-step>
         <mat-step>
             <ng-template matStepLabel>Enter your Stats</ng-template>
-            <app-investigator-stats></app-investigator-stats>
+            <app-investigator-stats [investigator]="investigator"></app-investigator-stats>
         </mat-step>
         <mat-step>
             <ng-template matStepLabel>Select Your occupation</ng-template>
@@ -22,7 +22,7 @@
         </mat-step>
         <mat-step>
             <ng-template matStepLabel>Adjust your Skills</ng-template>
-            <app-investigator-skills></app-investigator-skills>
+            <app-investigator-skills [investigatorRef]="investigator" [skillDescriptionRef]="skillDefinitionList"></app-investigator-skills>
         </mat-step>
         
     </mat-horizontal-stepper>

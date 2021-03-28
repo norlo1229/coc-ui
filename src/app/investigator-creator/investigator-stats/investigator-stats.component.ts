@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { DiceService } from '../dice.service';
+import { Investigator } from '../Investigator';
 
 @Component({
   selector: 'app-investigator-stats',
@@ -7,6 +8,8 @@ import { DiceService } from '../dice.service';
   styleUrls: ['./investigator-stats.component.scss']
 })
 export class InvestigatorStatsComponent implements OnInit {
+
+  @Input()investigator: Investigator
 
   str:number;
   dex:number;
@@ -33,20 +36,19 @@ export class InvestigatorStatsComponent implements OnInit {
   }
 
   public generateRandomStats(): void{
-    this.str = this.generateRandomStatValue();
-    this.dex = this.generateRandomStatValue();
-    this.con = this.generateRandomStatValue();
-    this.app = this.generateRandomStatValue();
-    this.int = this.generateRandomStatValue();
-    this.siz = this.generateRandomStatValue();
-    this.pow = this.generateRandomStatValue();
-    this.edu = this.generateRandomStatValue();
-    this.luck = this.generateRandomStatValue();
+    this.investigator.characteristics[0].value = this.generateStatValue(3,6,0,5); //str
+    this.investigator.characteristics[1].value = this.generateStatValue(3,6,0,5); //dex
+    this.investigator.characteristics[2].value = this.generateStatValue(3,6,0,5); //con
+    this.investigator.characteristics[3].value = this.generateStatValue(3,6,0,5); //app
+    this.investigator.characteristics[6].value = this.generateStatValue(3,6,0,5); //pow
+    this.investigator.characteristics[8].value = this.generateStatValue(3,6,0,5); //luck
+
+    this.investigator.characteristics[4].value = this.generateStatValue(2,6,6,5); //int
+    this.investigator.characteristics[5].value = this.generateStatValue(2,6,6,5); //siz
+    this.investigator.characteristics[7].value = this.generateStatValue(2,6,6,5); //edu
   }
 
-
-  
-  private generateRandomStatValue(): number{
-    return this.diceService.roll(6,3) * 5;
+  private generateStatValue(numberOfDice:number, numberOfSides:number, plusModifier:number, multiplier:number){
+    return (this.diceService.roll(numberOfDice,numberOfSides) + plusModifier) * multiplier;
   }
 }
